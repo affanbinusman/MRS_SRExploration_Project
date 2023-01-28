@@ -1,4 +1,5 @@
 This video link is the simulation demonstration of the project for the Multi-Robot Systems class at Arizona State University. 
+**Link: https://youtu.be/oFD_uyri5MQ**
 
 The highlights of the project include: 
 - Worked in a team of 2 to create a decentralized multi-robot system simulation of exploration and mapping for search and rescue of a target object using Python (Matplotlib, SciPy, PyLab, NumPy)
