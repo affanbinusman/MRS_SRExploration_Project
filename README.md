@@ -4,3 +4,5 @@ In master branch : Run the exploration_mrs.py file to run the explorations. Diff
 
 
 In working branch: simulation.py  file will execute the robot motion simultaneously. "nmpc" flag needs to be set to use mpc based navigation.
+
+Video demonstration: https://youtu.be/oFD_uyri5MQ
